@@ -1,0 +1,21 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Admin view",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "moon",
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
